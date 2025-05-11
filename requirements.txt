@@ -2,3 +2,4 @@ streamlit
 stripe
 gspread
 oauth2client
+openai
